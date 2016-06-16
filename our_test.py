@@ -84,8 +84,8 @@ if __name__ == '__main__':
     #import string
 
     #prevents escape characters in path
-    hom = r"C:\Users\wn9\Documents\NHES-ORNL\NHES\ReactorKinetics"
-    res = r"C:\Users\wn9\Documents\NHES-ORNL"
+    hom = r"C:\Users\wn9\Documents\TRANSFORM-Library\TRANSFORM\Systems\IRIS\PrimaryHeatTransportSystem"
+    res = r"C:\Users\wn9\Documents\TRANSFORM-Library"
 
 
     run_unit_tests(hom,res)
