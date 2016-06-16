@@ -80,8 +80,6 @@ def run_unit_tests(libHome, rootDir):
       numFailed = numFailed + 1
 
 if __name__ == '__main__':
-    #from sys import argv
-    #import string
 
     #prevents escape characters in path
     hom = r"C:\Users\wn9\Documents\TRANSFORM-Library\TRANSFORM\Systems\IRIS\PrimaryHeatTransportSystem"
